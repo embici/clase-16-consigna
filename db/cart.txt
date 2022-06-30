@@ -1,0 +1,8 @@
+{"products":[],"id":1}
+{"products":[],"id":2}
+{"products":[],"id":3}
+{"products":[{"name":"Apple MacBook Pro 17","price":"2999","color":"gray","category":"laptop","id":1,"stock":"3"},{"name":"Microsoft Surface PRO","price":"1800","color":"pink","category":"pc","id":2,"stock":"5"}],"id":4}
+{"products":[],"id":5}
+{"products":[{"name":"Apple MacBook Pro 17","price":"2999","color":"gray","category":"laptop","id":1,"stock":1},{"name":"Microsoft Surface","price":"2500","color":"pink","category":"pc","id":2,"stock":1}],"id":6}
+{"products":[{"name":"Microsoft Surface","price":"2500","color":"pink","category":"pc","id":2,"stock":1}],"id":7}
+{"products":[{"name":"Apple MacBook Pro 17","price":"2999","color":"gray","category":"laptop","id":1,"stock":"3"},{"name":"Magic Mouse 2","price":"99","color":"white","category":"accesories","id":3,"stock":"3"}],"id":8}
